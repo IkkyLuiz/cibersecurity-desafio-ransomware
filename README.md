@@ -10,3 +10,5 @@ O objetivo deste código é criar um código simples, utilizando a linguagem Pyt
 
 **Downloads:**
 1. [Kali Linux](https://www.kali.org/get-kali/#kali-platforms).
+2.  [Python](https://www.python.org/).
+3. [Maquina Virtual](https://www.virtualbox.org/wiki/Downloads).
