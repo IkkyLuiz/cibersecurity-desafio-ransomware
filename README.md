@@ -1,4 +1,4 @@
-## Desafio construindo um Ransomware Utilizando a Linguagem de Programação Python.**
+## Desafio construindo um Ransomware Utilizando a Linguagem de Programação Python.
 
 **Descrição:**
 O objetivo deste código é criar um código simples, utilizando a linguagem Python, para criptografar e descriptografar um arquivo.
